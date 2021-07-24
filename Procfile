@@ -1,1 +1,1 @@
-web: gunicorn Fine-Tune-BERT-for-Text-Classification-with-TensorFlow:app
+web: gunicorn fine_tune_bert_for_text_classification_with_tensorflow:app
