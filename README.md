@@ -1,5 +1,6 @@
 # Prediction-of-sincere-questions
-Classify questions as sincere or insincere. Deployed the model using flask on colab. Questions with hateful content, abusive language, sexual content or personal attacks are considered insincere questions. 
+Classify questions as sincere or insincere. Deployed the model using flask on colab. . It helps to eliminate questions that contain abusive language, hate speeches, sexual contents or contents that can lead to violence. Used NLP library for text pre-processing, pre-trained BURT model from TensorFlow hub and ran different parts of model on different devices (CPU or GPU). 
+
 
 We used a pre-trained bert model. We trained it on Quora questions dataset. Here are some demos of working of flask application.
 
